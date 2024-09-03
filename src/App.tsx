@@ -7,7 +7,7 @@ import {About} from "./layout/sections/about/About";
 function App() {
   return (
     <div className="App">
-    <Header/>
+      <Header/>
       <Main/>
       <About/>
     </div>
